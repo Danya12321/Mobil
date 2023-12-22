@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PR28</string>
+    <string name="sun">Солнце</string>
+    <string name="sky">Небо</string>
+    <string name="balloon">Шар</string>
+
+</resources>
